@@ -1,0 +1,11 @@
+{
+    "name": "codewithedison/error-logger",
+    "description": "A custom error logging tool for PHP applications developed by codewithedison.",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "CodeWithEdison\\ErrorLogger\\": "src/"
+        }
+    }
+}
